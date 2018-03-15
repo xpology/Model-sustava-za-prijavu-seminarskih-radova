@@ -10,4 +10,4 @@ Prijava administratora obavlja se klikom na ikonu u gornjem desnom uglu na stran
 <b>Korisničko ime administratora:</b> admin1<br>
 <b>Lozinka:</b> 123456
 
-Testiranje projekta dostupno na http://informatika.gq
+Testiranje projekta dostupno na <strike>http://informatika.gq</strike>
